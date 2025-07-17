@@ -42,7 +42,7 @@
 
 ## 📈 Visual Output
 
-- Confusion Matrix (TP, FP, TN, FN)
+  ![image alt](https://github.com/masonbae/random_forest_cc_fraud/blob/0d410dbca64ec5f6356cac7cde6bc8d26e11bbbe/conufsion%20matrix.png)
 - Feature Importance Bar Chart
 - Correlation Heatmap
 - ROC Curve with AUC
