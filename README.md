@@ -42,12 +42,14 @@
 
 ## 📈 Visual Output
 
-  ![image alt](https://github.com/masonbae/random_forest_cc_fraud/blob/0d410dbca64ec5f6356cac7cde6bc8d26e11bbbe/conufsion%20matrix.png)
-- Feature Importance Bar Chart
-- Correlation Heatmap
-- ROC Curve with AUC
+  ![image alt](https://github.com/masonbae/random_forest_cc_fraud/blob/0d410dbca64ec5f6356cac7cde6bc8d26e11bbbe/conufsion%20matrix.png)  
+  ![image alt](https://github.com/masonbae/random_forest_cc_fraud/blob/8acb2db66108abe7a23f3c95124e96afcc3bc770/feature_correlation_matrix.png) 
+  ![image alt](https://github.com/masonbae/random_forest_cc_fraud/blob/8acb2db66108abe7a23f3c95124e96afcc3bc770/feature_importance.png) 
+  ![image alt](https://github.com/masonbae/random_forest_cc_fraud/blob/8acb2db66108abe7a23f3c95124e96afcc3bc770/roc_curve.png) 
 
-> Visuals available in the project notebook.
+
+
+> Visuals also available in the project notebook.
 
 ---
 
